@@ -61,7 +61,8 @@ En la carpeta "imagenes" se encuentran los screen del ejercicio.
 Ejecutar programa para ejercicios:
 ----------------------------------------------------------------------------------------
 Precondicion:instalar Node.js
-Abrir GIT Bash en la carpeta VirtualDreams.
+
+Abrir GIT Bash en la carpeta TP-VirtualDreams.
 Por unica vez ejecutar npm install y esperar a que cargue
 
 EJERCICIO 4: 
